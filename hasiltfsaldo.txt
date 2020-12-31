@@ -1,0 +1,16 @@
+| Nama :  32873
+| Jumlah Saldo :  29273
+| Ke Bank : bca
+| Nama :  32873
+| Jumlah Saldo :  29273
+| Bank Tujuan : bca
+| Nama :  32873
+| Jumlah Saldo :  29273
+| Bank Tujuan : bca
+| Nama :  085230013197
+| Jumlah Saldo :  1000000
+| Bank Tujuan : bni
+| Nama :  9348394
+| Jumlah Saldo :  394834
+| Bank Tujuan : bni
+-------------------------- 
