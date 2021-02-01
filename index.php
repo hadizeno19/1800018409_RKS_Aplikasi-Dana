@@ -1,12 +1,4 @@
 <!DOCTYPE html>
-<?php
-session_start();
-if(!isset($_SESSION['username'])) {
-   header('location:dashboard.php'); 
-} else { 
-   $username = $_SESSION['username']; 
-} 
-?>
 <style>
 input[type=text] {
   width: 280px;
